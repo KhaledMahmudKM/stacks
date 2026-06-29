@@ -1,32 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#241d14"/>
-      <stop offset="1" stop-color="#1c160f"/>
+      <stop offset="0" stop-color="#172011"/>
+      <stop offset="1" stop-color="#10180d"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
 
-  <!-- scanline-free warm accent corner -->
-  <circle cx="1080" cy="120" r="260" fill="#c75b39" opacity="0.10"/>
+  <circle cx="1080" cy="120" r="260" fill="#5a9e2f" opacity="0.12"/>
 
-  <!-- stacked-layers mark -->
-  <g transform="translate(96,150)" fill="none" stroke="#e8915f" stroke-width="9" stroke-linejoin="round">
+  <g transform="translate(96,150)" fill="none" stroke="#8ed158" stroke-width="9" stroke-linejoin="round">
     <path d="M55 0 L110 28 L55 56 L0 28 Z"/>
     <path d="M0 50 L55 78 L110 50"/>
     <path d="M0 72 L55 100 L110 72"/>
   </g>
 
-  <!-- brand path -->
-  <text x="240" y="232" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="34" fill="#bda988">khaledmahmudkm<tspan fill="#857458">/</tspan><tspan fill="#e8915f">stacks</tspan></text>
+  <text x="240" y="232" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="34" fill="#a9bd92">khaledmahmudkm<tspan fill="#74875e">/</tspan><tspan fill="#8ed158">stacks</tspan></text>
 
-  <!-- headline -->
-  <text x="96" y="360" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="76" font-weight="700" fill="#f0e6d6">Concise books &amp; tools,</text>
-  <text x="96" y="446" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="76" font-weight="700" fill="#e8915f">all in one place.</text>
+  <text x="96" y="360" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="76" font-weight="700" fill="#e3efd5">Concise books &amp; tools,</text>
+  <text x="96" y="446" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="76" font-weight="700" fill="#8ed158">all in one place.</text>
 
-  <!-- subhead -->
-  <text x="96" y="516" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="30" fill="#bda988">Data · Machine Learning · Linux · Security · Networking</text>
+  <text x="96" y="516" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="30" fill="#a9bd92">Data · Machine Learning · Linux · Security · Networking</text>
 
-  <!-- footer line -->
-  <text x="96" y="582" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="24" fill="#857458">16 sites · a reference directory by Khaled Mahmud</text>
+  <text x="96" y="582" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="24" fill="#74875e">a reference directory by Khaled Mahmud</text>
 </svg>
