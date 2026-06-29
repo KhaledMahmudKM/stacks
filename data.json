@@ -9,11 +9,13 @@
       "cat": "Concise Books",
       "items": [
         { "t": "Data Analysis", "d": "Concise book on data analysis.", "u": "https://khaledmahmudkm.github.io/DataAnalysis/", "s": "DataAnalysis" },
-        { "t": "Ansible", "d": "Concise Ansible book.", "u": "https://khaledmahmudkm.github.io/ConciseAnsible/", "s": "ConciseAnsible" },
-        { "t": "Penetration Testing", "d": "Concise penetration testing book.", "u": "https://khaledmahmudkm.github.io/ConcisePentesting/", "s": "ConcisePentesting" },
+        { "t": "Ansible", "d": "Concise book on Ansible.", "u": "https://khaledmahmudkm.github.io/ConciseAnsible/", "s": "ConciseAnsible" },
+        { "t": "Penetration Testing", "d": "Concise book on penetration testing.", "u": "https://khaledmahmudkm.github.io/ConcisePentesting/", "s": "ConcisePentesting" },
         { "t": "Metasploit", "d": "Concise Metasploit book.", "u": "https://khaledmahmudkm.github.io/ConciseMetasploit/", "s": "ConciseMetasploit" },
-        { "t": "Machine Learning", "d": "Concise machine learning book.", "u": "https://khaledmahmudkm.github.io/ConciseMLBook/", "s": "ConciseMLBook" },
-        { "t": "Linux Commands", "d": "Concise Linux commands book.", "u": "https://khaledmahmudkm.github.io/LinuxCommands/", "s": "LinuxCommands" }
+        { "t": "Machine Learning", "d": "Concise book on machine learning.", "u": "https://khaledmahmudkm.github.io/ConciseMLBook/", "s": "ConciseMLBook" },
+        { "t": "Linux Commands", "d": "Concise book on Linux commands.", "u": "https://khaledmahmudkm.github.io/LinuxCommands/", "s": "LinuxCommands" },
+        { "t": "Linux ToDos", "d": "Concise book on Linux ToDos/Tasks.", "u": "https://github.com/KhaledMahmudKM/LinuxToDos.git/", "s": "LinuxToDos" },
+        { "t": "Linux ToDos", "d": "Concise Book on Github Usage.", "u": "https://github.com/KhaledMahmudKM/githubusage.git/", "s": "githubusage" }
       ]
     },
     {
@@ -24,7 +26,6 @@
         { "t": "CommMath", "d": "A list of exercises related to communication mathematics.", "u": "https://khaledmahmudkm.github.io/CommMath/", "s": "CommMath" },
         { "t": "CommGraph", "d": "Graphs of communication signals created in Desmos.", "u": "https://khaledmahmudkm.github.io/CommGraph/", "s": "CommGraph" },
         { "t": "Crypto Hashes", "d": "Cryptographic hash calculations, online.", "u": "https://khaledmahmudkm.github.io/CryptoHashes/", "s": "CryptoHashes" },
-        { "t": "Linux Help", "d": "Helpful commands and procedures in Linux.", "u": "https://khaledmahmudkm.github.io/LinuxHelp/", "s": "LinuxHelp" },
         { "t": "802.11 MAC", "d": "IEEE 802.11 MAC procedures and frames.", "u": "https://khaledmahmudkm.github.io/802.11MAC/", "s": "802.11MAC" },
         { "t": "Dijkstra's SPF", "d": "Visualize Dijkstra's shortest path first algorithm.", "u": "https://khaledmahmudkm.github.io/DijkstraSPF/", "s": "DijkstraSPF" },
         { "t": "Juniper Command Usage", "d": "Juniper command usage guide.", "u": "https://khaledmahmudkm.github.io/JuniperUsage/", "s": "JuniperUsage" },
