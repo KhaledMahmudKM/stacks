@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khaledmahmudkm.github.io/stacks/sitemap.xml
