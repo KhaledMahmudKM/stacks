@@ -14,8 +14,8 @@
         { "t": "Metasploit", "d": "Concise Metasploit book.", "u": "https://khaledmahmudkm.github.io/ConciseMetasploit/", "s": "ConciseMetasploit" },
         { "t": "Machine Learning", "d": "Concise book on machine learning.", "u": "https://khaledmahmudkm.github.io/ConciseMLBook/", "s": "ConciseMLBook" },
         { "t": "Linux Commands", "d": "Concise book on Linux commands.", "u": "https://khaledmahmudkm.github.io/LinuxCommands/", "s": "LinuxCommands" },
-        { "t": "Linux ToDos", "d": "Concise book on Linux ToDos/Tasks.", "u": "https://github.com/KhaledMahmudKM/LinuxToDos.git/", "s": "LinuxToDos" },
-        { "t": "Linux ToDos", "d": "Concise Book on Github Usage.", "u": "https://github.com/KhaledMahmudKM/githubusage.git/", "s": "githubusage" },
+        { "t": "Linux ToDos", "d": "Concise book on Linux ToDos/Tasks.", "u": "https://khaledmahmudkm.github.io/LinuxToDos/", "s": "LinuxToDos" },
+        { "t": "Git Usage", "d": "Concise Book on Git/GitHub Usage.", "u": "https://khaledmahmudkm.github.io/githubusage/", "s": "githubusage" },
         { "t": "Juniper Command Usage", "d": "Juniper command usage guide.", "u": "https://khaledmahmudkm.github.io/JuniperUsage/", "s": "JuniperUsage" }        
       ]
     },
