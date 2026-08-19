@@ -52,13 +52,12 @@ header{
   border-bottom:1px solid var(--border-soft);
 }
 .bar{display:flex;align-items:center;gap:16px;height:60px}
-.brand{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-weight:600;font-size:15px}
-.brand .dot{
-  width:9px;height:9px;border-radius:2px;background:var(--accent);
-  box-shadow:0 0 12px var(--accent);
+.brand{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-weight:600;font-size:15px;text-decoration:none;color:inherit;transition:opacity .16s}
+.brand:hover{opacity:.8}
+.brand-icon{
+  width:26px;height:26px;flex-shrink:0;color:var(--accent);
+  filter:drop-shadow(0 0 8px var(--accent-glow));
 }
-.brand .slash{color:var(--text-faint)}
-.brand .seg{color:var(--text-dim)}
 .spacer{flex:1}
 .theme-btn{
   width:36px;height:36px;border:1px solid var(--border);border-radius:8px;
