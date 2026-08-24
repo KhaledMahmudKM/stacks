@@ -13,6 +13,7 @@
         { "t": "Penetration Testing", "d": "Concise book on penetration testing.", "u": "https://khaledmahmudkm.github.io/ConcisePentesting/", "s": "ConcisePentesting" },
         { "t": "Metasploit", "d": "Concise Metasploit book.", "u": "https://khaledmahmudkm.github.io/ConciseMetasploit/", "s": "ConciseMetasploit" },
         { "t": "Machine Learning", "d": "Concise book on machine learning.", "u": "https://khaledmahmudkm.github.io/ConciseMLBook/", "s": "ConciseMLBook" },
+        { "t": "Crypto Hash Book", "d": "Concise book on cryptographic hashes.", "u": "https://khaledmahmudkm.github.io/CryptoHashBook", "s": "CryptoHashBook" },        
         { "t": "Linux Commands", "d": "Concise book on Linux commands.", "u": "https://khaledmahmudkm.github.io/LinuxCommands/", "s": "LinuxCommands" },
         { "t": "Linux ToDos", "d": "Concise book on Linux ToDos/Tasks.", "u": "https://khaledmahmudkm.github.io/LinuxToDos/", "s": "LinuxToDos" },
         { "t": "Git Usage", "d": "Concise Book on Git/GitHub Usage.", "u": "https://khaledmahmudkm.github.io/GithubUsage/", "s": "githubusage" },
