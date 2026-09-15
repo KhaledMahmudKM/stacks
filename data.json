@@ -8,30 +8,29 @@
     {
       "cat": "Concise Books",
       "items": [
-        { "t": "Data Analysis", "d": "Concise book on data analysis.", "u": "https://khaledmahmudkm.github.io/DataAnalysis/", "s": "DataAnalysis" },
-        { "t": "Ansible", "d": "Concise book on Ansible.", "u": "https://khaledmahmudkm.github.io/ConciseAnsible/", "s": "ConciseAnsible" },
-        { "t": "Penetration Testing", "d": "Concise book on penetration testing.", "u": "https://khaledmahmudkm.github.io/ConcisePentesting/", "s": "ConcisePentesting" },
-        { "t": "Metasploit", "d": "Concise Metasploit book.", "u": "https://khaledmahmudkm.github.io/ConciseMetasploit/", "s": "ConciseMetasploit" },
-        { "t": "Machine Learning", "d": "Concise book on machine learning.", "u": "https://khaledmahmudkm.github.io/ConciseMLBook/", "s": "ConciseMLBook" },
-        { "t": "Crypto Hash Book", "d": "Concise book on cryptographic hashes.", "u": "https://khaledmahmudkm.github.io/CryptoHashBook", "s": "CryptoHashBook" },        
-        { "t": "Linux Commands", "d": "Concise book on Linux commands.", "u": "https://khaledmahmudkm.github.io/LinuxCommands/", "s": "LinuxCommands" },
-        { "t": "Linux ToDos", "d": "Concise book on Linux ToDos/Tasks.", "u": "https://khaledmahmudkm.github.io/LinuxToDos/", "s": "LinuxToDos" },
-        { "t": "Git Usage", "d": "Concise Book on Git/GitHub Usage.", "u": "https://khaledmahmudkm.github.io/GithubUsage/", "s": "githubusage" },
-        { "t": "Juniper Command Usage", "d": "Juniper command usage guide.", "u": "https://khaledmahmudkm.github.io/JuniperUsage/", "s": "JuniperUsage" }        
+        { "t": "Data Analysis", "d": "Concise book on data analysis.", "u": "https://khaledmahmudkm.github.io/dataanalysis/", "s": "dataanalysis" },
+        { "t": "Ansible", "d": "Concise book on Ansible.", "u": "https://khaledmahmudkm.github.io/conciseansible/", "s": "conciseansible" },
+        { "t": "Penetration Testing", "d": "Concise book on penetration testing.", "u": "https://khaledmahmudkm.github.io/concisepentesting/", "s": "concisepentesting" },
+        { "t": "Metasploit", "d": "Concise Metasploit book.", "u": "https://khaledmahmudkm.github.io/concisemetasploit/", "s": "concisemetasploit" },
+        { "t": "Machine Learning", "d": "Concise book on machine learning.", "u": "https://khaledmahmudkm.github.io/concisemlbook/", "s": "concisemlbook" },
+        { "t": "Crypto Hash Book", "d": "Concise book on cryptographic hashes.", "u": "https://khaledmahmudkm.github.io/cryptohashbook", "s": "cryptohashbook" },        
+        { "t": "Linux Commands", "d": "Concise book on Linux commands.", "u": "https://khaledmahmudkm.github.io/linuxcommands/", "s": "linuxcommands" },
+        { "t": "Linux ToDos", "d": "Concise book on Linux ToDos/Tasks.", "u": "https://khaledmahmudkm.github.io/linuxtodos/", "s": "linuxtodos" },
+        { "t": "Git Usage", "d": "Concise Book on Git/GitHub Usage.", "u": "https://khaledmahmudkm.github.io/githubusage/", "s": "githubusage" },
+        { "t": "Juniper Command Usage", "d": "Juniper command usage guide.", "u": "https://khaledmahmudkm.github.io/juniperusage/", "s": "juniperusage" }        
       ]
     },
     {
       "cat": "Tools & Misc",
       "items": [
-        { "t": "Matlab AppList", "d": "Matlab applications for viewing and analysing signals in time and frequency domain.", "u": "https://khaledmahmudkm.github.io/Matlab-AppList/", "s": "Matlab-AppList" },
-        { "t": "Radius Server", "d": "Installing and testing a FreeRADIUS server.", "u": "https://khaledmahmudkm.github.io/RadiusServer/", "s": "RadiusServer" },
-        { "t": "CommMath", "d": "A list of exercises related to communication mathematics.", "u": "https://khaledmahmudkm.github.io/CommMath/", "s": "CommMath" },
-        { "t": "CommGraph", "d": "Graphs of communication signals created in Desmos.", "u": "https://khaledmahmudkm.github.io/CommGraph/", "s": "CommGraph" },
-        { "t": "Crypto Hashes", "d": "Cryptographic hash calculations, online.", "u": "https://khaledmahmudkm.github.io/CryptoHashes/", "s": "CryptoHashes" },
-        { "t": "802.11 MAC", "d": "IEEE 802.11 MAC procedures and frames.", "u": "https://khaledmahmudkm.github.io/802.11MAC/", "s": "802.11MAC" },
-        { "t": "Dijkstra's SPF", "d": "Visualize Dijkstra's shortest path first algorithm.", "u": "https://khaledmahmudkm.github.io/DijkstraSPF/", "s": "DijkstraSPF" },
-
-        { "t": "Magic Square", "d": "Create and solve a magic square of any size.", "u": "https://khaledmahmudkm.github.io/MagicSquare/", "s": "MagicSquare" }
+        { "t": "Matlab AppList", "d": "Matlab applications for viewing and analysing signals in time and frequency domain.", "u": "https://khaledmahmudkm.github.io/matlabapplist/", "s": "matlabapplist" },
+        { "t": "Radius Server", "d": "Installing and testing a FreeRADIUS server.", "u": "https://khaledmahmudkm.github.io/radiusserver/", "s": "radiusserver" },
+        { "t": "CommMath", "d": "A list of exercises related to communication mathematics.", "u": "https://khaledmahmudkm.github.io/commmath/", "s": "commmath" },
+        { "t": "CommGraph", "d": "Graphs of communication signals created in Desmos.", "u": "https://khaledmahmudkm.github.io/commgraph/", "s": "commgraph" },
+        { "t": "Crypto Hashes", "d": "Cryptographic hash calculations, online.", "u": "https://khaledmahmudkm.github.io/cryptohashes/", "s": "cryptohashes" },
+        { "t": "802.11 MAC", "d": "IEEE 802.11 MAC procedures and frames.", "u": "https://khaledmahmudkm.github.io/802dot11mac/", "s": "802dot11mac" },
+        { "t": "Dijkstra's SPF", "d": "Visualize Dijkstra's shortest path first algorithm.", "u": "https://khaledmahmudkm.github.io/dijkstraspf/", "s": "dijkstraspf" },
+        { "t": "Magic Square", "d": "Create and solve a magic square of any size.", "u": "https://khaledmahmudkm.github.io/magicsquare/", "s": "magicsquare" }
       ]
     }
   ]
