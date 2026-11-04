@@ -8,6 +8,7 @@
     {
       "cat": "Concise Books",
       "items": [
+        { "t": "ContainerLab", "d": "Concise Book on ContainerLab.", "u": "https://khaledmahmudkm.github.io/containerlabbook/", "s": "containerlab" },
         { "t": "Data Analysis", "d": "Concise book on data analysis.", "u": "https://khaledmahmudkm.github.io/dataanalysis/", "s": "dataanalysis" },
         { "t": "Ansible", "d": "Concise book on Ansible.", "u": "https://khaledmahmudkm.github.io/conciseansible/", "s": "conciseansible" },
         { "t": "Penetration Testing", "d": "Concise book on penetration testing.", "u": "https://khaledmahmudkm.github.io/concisepentesting/", "s": "concisepentesting" },
