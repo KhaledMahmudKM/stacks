@@ -8,6 +8,8 @@
     {
       "cat": "Concise Books",
       "items": [
+        { "t": "Kubernetes Book", "d": "Concise Book on Kubernetes.", "u": "https://khaledmahmudkm.github.io/concisek8s/", "s": "kubernetesbook" },        
+        { "t": "Data Center Fabric", "d": "Concise Book on Data Center Fabric.", "u": "https://khaledmahmudkm.github.io/datacenterfabric/", "s": "datacenterfabric" },        
         { "t": "DockerBook", "d": "Concise Book on Docker.", "u": "https://khaledmahmudkm.github.io/dockerbook/", "s": "dockerbook" },        
         { "t": "ContainerLab", "d": "Concise Book on ContainerLab.", "u": "https://khaledmahmudkm.github.io/containerlabbook/", "s": "containerlab" },
         { "t": "Data Analysis", "d": "Concise book on data analysis.", "u": "https://khaledmahmudkm.github.io/dataanalysis/", "s": "dataanalysis" },
