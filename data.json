@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "May 29, 2026",
+    "updated": "November 18, 2026",
     "author": "Khaled Mahmud",
     "tagline": "A working library of short technical books and interactive utilities spanning data, networking, security, and Linux."
   },
@@ -8,6 +8,7 @@
     {
       "cat": "Concise Books",
       "items": [
+        { "t": "Ansible, Hands-on Edition", "d": "Concise Book on Ansible, Hands-on Edition: one project, lab by lab, tested on DockerLab.", "u": "https://khaledmahmudkm.github.io/ansiblehandson/", "s": "ansiblehandson" },
         { "t": "Software Engineering Book", "d": "Concise Book on Software Engineering.", "u": "https://khaledmahmudkm.github.io/conciseswe/", "s": "swebook" },         
         { "t": "MPLS Book", "d": "Concise Book on MPLS.", "u": "https://khaledmahmudkm.github.io/concisempls/", "s": "mplsbook" }, 
         { "t": "API Book", "d": "Concise Book on APIs.", "u": "https://khaledmahmudkm.github.io/conciseapi/", "s": "apisbook" },         
